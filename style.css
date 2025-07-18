@@ -34,6 +34,11 @@ main#mainpart.reading-page
     background-size: cover !important;
     color: #fff !important;
 }
+
+.rd_sidebar #chap_list li.current {
+    background-color:#dddddd40;
+}
+
 .expand,.mobile-more,.summary-more.more-state {
     background: linear-gradient(180deg, rgb(0 0 0 / 0%) 1%, #171719 75%, #171719);
 }
